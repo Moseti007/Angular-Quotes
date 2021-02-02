@@ -7,7 +7,7 @@ Polycarp Moseti
 This is an Angular application that displays quotes and enables users to share there opinions about the quotes in the app by either liking or disliking, they can also add their own quotes
 
 ## LIVE PAGE
-https://moseti007.github.io/Angular-IProject/
+https://moseti007.github.io/Angular-Quotes/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
 
